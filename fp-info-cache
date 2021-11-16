@@ -1,4 +1,4 @@
-19585242813900222
+19585245186188222
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -84077,11 +84077,11 @@ ChocV1_V2_Hotswap_1.5u
 3
 2
 depadiernos-parts
-Kailh_socket_MX
-MX-style keyswitch with Kailh socket mount
-MX,cherry,gateron,kailh,pg1511,socket
+ChocV2_1u_flip_hotswap
+
+
 0
-2
+9
 2
 depadiernos-parts
 M2_HOLE_v2
@@ -84095,7 +84095,7 @@ ProMicro_Jumper
 
 
 0
-120
+168
 24
 depadiernos-parts
 R_0603_1608Metric_Pad0.98x0.95mm_HandSolder
