@@ -4,4 +4,4 @@
 
 Based on Architeuthis Dux with a 3rd thumb key.
 
-![a_dux_dux](https://user-images.githubusercontent.com/9113313/142000626-88290878-3483-4580-b805-038abd62dc25.png)
+![image](https://user-images.githubusercontent.com/9113313/142222183-5d4a8664-8a53-4ee0-b324-00a8fb76b796.png)
